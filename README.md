@@ -9,5 +9,6 @@
 📚 Continuous learning is ingrained in my DNA. Whether it's diving into the latest JavaScript innovations or exploring emerging technologies, I'm committed to staying at the forefront of the ever-evolving tech landscape.
 
 💬 Wherever I am, you'll find code. Let's connect and collaborate on projects that push the boundaries of what can be achieved with JavaScript.
+
 LinkedIn: https://www.linkedin.com/in/muhammad-hassan-azmat-2457ab300/
 Email: mhazmatjunior@gmail.com
